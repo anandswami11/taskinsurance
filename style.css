@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+    .container{
+        width: 1100px;
+        margin: auto;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .banner{
+        width: 100%;
+        float: left;
+        height: auto;
+        /* height: 100vh; */
+        height: 450px;
+        /* margin: auto; */
+        /* margin-top: 100px; */
+       background-image: url('./images/image-1.jpeg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        
+      opacity: 0.9;
+    
+    }
+    .nav{
+    
+        width: 100%;
+        padding: 10PX 0PX;
+        background-color: rgb(252, 252, 252);
+        /* height: 100PX; */
+        float: left;
+        
+    }
+    .left-logo{
+        float: left;
+        font-size: 25px;
+        margin-left: 20px;
+        color: #7f66ff;
+        font-weight: 600;
+    }
+    /* .name{
+        font-size: 22px;
+        
+    } */
+    .right-num{
+        float: right;
+        margin-right: 20px;
+        color: rgb(44, 42, 42);
+    }
+/* .container img{
+    height: 100%;
+    float: left;
+    width: 100%; */
+    /* position: absolute;
+    z-index: 1; */
+/* } */
+/* .images{
+    width: 100%;
+    float: left;
+    position: relative;
+} */
+    .box{
+        width: 310px;
+        float: left;
+        margin: 50PX 0PX 50PX 50PX;
+        border-radius: 40px;
+        transform: rotate3d(0.1, 0.1, 0, 30deg);
+    color: white;
+    padding: 50px 0px 50px 50px;
+        background-color: #7f66ff;
+	opacity: 0.8;
+    }
+.icon img{
+    width: 20px;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+.tage{
+    float: left;
+    font-weight: 500;
+    font-size: 17px;
+}
+.pra{
+    font-size: 47px;
+    font-weight: 700;
+    
+    float: left;
+}
+button{
+    font-size: 13px;
+    color: white;
+    padding: 9px 20px;
+    background-color: #007bfc;
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+    @media screen and (max-width: 1100px) {
+        .container{
+            width: 100%;
+            
+        }
+
+    }
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
