@@ -62,11 +62,13 @@
     position: relative;
 } */
     .box{
-        width: 310px;
+        width: 270px;
         float: left;
         margin: 50PX 0PX 50PX 50PX;
         border-radius: 40px;
-        transform: rotate3d(0.1, 0.1, 0, 30deg);
+        transform: skewy(8deg);
+        transform: skewx(8deg);
+        /* transform: rotate3d(0.1, 0.1, 0, 30deg); */
     color: white;
     padding: 50px 0px 50px 50px;
         background-color: #7f66ff;
@@ -83,8 +85,8 @@
     font-size: 17px;
 }
 .pra{
-    font-size: 47px;
-    font-weight: 700;
+    font-size: 36px;
+    font-weight: 600;
     
     float: left;
 }
